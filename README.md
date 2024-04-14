@@ -16,5 +16,5 @@
 ## Sobre mim:
 - Técnico Desenvolvedor de Sistemas em formação, com habilidades em Inglês intermediário e entusiasta de esportes. <br/>
 - Conhecimentos sólidos em: <strong>HTML, CSS, JavaScript, UI & UX.</strong><br/>
-- Estou aprendendo: <strong>ReactJS, Node.js, Python, SOLID, Kanban.</strong><br/>
+- Estou aprendendo: <strong>ReactJS, Jquery, Bootstrap, Node.js, Axios, Jest.</strong><br/>
 - Atualmente meu foco é no Front-end.
