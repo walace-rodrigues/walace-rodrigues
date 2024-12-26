@@ -14,9 +14,9 @@
 </div><br/>
 
 ## Sobre mim:
-- Técnico Desenvolvedor de Sistemas em formação, com habilidades em Inglês intermediário e entusiasta de esportes. <br/>
-- Conhecimentos sólidos em: <strong>HTML, CSS, JavaScript, TailwindCSS, UI & UX.</strong><br/>
-- Estou aprendendo: <strong>ReactJS, Node.js, PHP, MySql.</strong><br/>
-- Atualmente meu foco é no Front-end.
+- Técnico Desenvolvedor de Sistemas com habilidades em Inglês intermediário e entusiasta de esportes. <br/>
+- Conhecimentos sólidos em: <strong>JavaScript, PHP, MySQL, Python, UI & UX.</strong><br/>
+- Estou aprendendo: <strong>Java e Kotlin.</strong><br/>
+- Atualmente meu foco é no Back-end.
 
 
