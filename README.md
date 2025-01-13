@@ -18,6 +18,6 @@
 - Técnico Desenvolvedor de Sistemas formado, com habilidades em Inglês intermediário e entusiasta de esportes. <br/>
 - Conhecimentos sólidos em: <strong>JavaScript, PHP, MySQL, Python, UI & UX.</strong><br/>
 - Estou aprendendo: <strong>Java e Kotlin.</strong><br/>
-- Atualmente meu foco é no Back-end.
+- Atualmente meu foco é no Backend.
 
 
