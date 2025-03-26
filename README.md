@@ -14,7 +14,7 @@
 
 ## Sobre mim:
 - Desenvolvedor na Neuro On Sistemas
-- Cursando Sistemas de Informação.
+- Graduando em Sistemas de Informação.
 - Técnico Desenvolvedor de Sistemas formado, com habilidades em Inglês intermediário e entusiasta de esportes. <br/>
 - Conhecimentos sólidos em: <strong>JavaScript, PHP, MySQL, Python, UI & UX.</strong><br/>
 - Estou aprendendo: <strong>React, NextJS <strong><br/>
