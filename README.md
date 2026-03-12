@@ -15,10 +15,19 @@
      <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div><br/>
 
-## Sobre mim:
+## About me:
 
 - Information Systems student focused on **Computer Vision and Applied AI**.
-- I build **real-world AI systems**, especially for **video analysis and intelligent monitoring**.
+- I build **real-world AI systems**, especially for **video analysis, intelligent monitoring and mobile AI applications**.
 - Experience developing features such as **real-time face detection** and **multi-object tracking using YOLO**.
+- Experience building **AI-powered mobile applications** and deploying models for **on-device inference**.
 - Work across the full pipeline — from **system architecture and model integration to deployment**.
 - My focus is creating **fast, scalable and production-ready AI solutions**.
+
+## What I’ve Built:
+
+- Developed **24/7 real-time monitoring systems** capable of detecting suspicious behavior in commercial environments using computer vision.
+- Built **mobile applications with facial registration and face recognition** for identity verification and access control.
+- Implemented **real-time face detection and multi-object tracking systems** for video analysis pipelines.
+
+## I’m always open to sharing my work and discussing real-world AI systems and applications.
