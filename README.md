@@ -29,5 +29,6 @@
 - Developed **24/7 real-time monitoring systems** capable of detecting suspicious behavior in commercial environments using computer vision.
 - Built **mobile applications with facial registration and face recognition** for identity verification and access control.
 - Implemented **real-time face detection and multi-object tracking systems** for video analysis pipelines.
+- Developed computer vision pipelines for athlete movement analysis, including identification and movement quality classification.
 
 ## I’m always open to sharing my work and discussing real-world AI systems and applications.
